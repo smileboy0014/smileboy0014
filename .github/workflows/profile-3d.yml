@@ -22,4 +22,4 @@ jobs:
           git remote set-url origin https://github.com/smileboy0014/smileboy0014.git
           git add -A .
           git commit -m "generated"
-          git push https://$GITHUB_TOKEN@github.com/smileboy0014/smileboy0014.git
+          git push https://$ACCESS_TOKEN@github.com/smileboy0014/smileboy0014.git
